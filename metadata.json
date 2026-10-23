@@ -1,0 +1,6 @@
+{
+  "name": "ReadFocus",
+  "description": "A reading focus companion with Spotify music integration, Pomodoro intervals with 5-min breaks, permitted app locker, ringtones, and guardian emergency unlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
